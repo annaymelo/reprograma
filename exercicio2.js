@@ -1,7 +1,4 @@
-var numberThree = 3;
-var numberFive = 5;
-
-if (numberThree > numberFive) {
+if (3 > 5) {
 console.log ("verdadeiro");
 } else {
 console.log ("falso");
@@ -9,10 +6,7 @@ console.log ("falso");
 
 
 
-var numberFive = 5;
-var numberZero = 0;
-
-if (numberFive > numberZero) {
+if (5 > 0) {
 console.log ("verdadeiro");
 } else {
 console.log ("falso");
@@ -20,29 +14,23 @@ console.log ("falso");
 
 
 
-var numberFive = 5;
-
-if (numberFive > numberFive) {
+if (5 > 5) {
 console.log ("verdadeiro");
 } else {
 console.log ("falso");
 }
 
 
-var numberZero = 0;
-var numberOne = 1;
 
-if (numberZero >= numberOne) {
+if (0 >= 1) {
 console.log ("verdadeiro");
 } else {
 console.log ("falso");
 }
 
 
-var numberOne = 1;
-var numberTen = 10;
 
-if (numberOne > - numberTen) {
+if (1 > - 10) {
 console.log ("verdadeiro");
 } else {
 console.log ("falso");
